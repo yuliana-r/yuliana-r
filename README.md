@@ -20,7 +20,7 @@
 
 <br />
 
-### Languages and Tools:
+> ### Languages and Tools:
 
 | Front-end  | Back-end | Databases  | Version Control & Collaboration |
 | :---: | :---: | :---: | :---: |
@@ -30,4 +30,4 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuliana-r&show_icons=true&locale=en&layout=compact" alt="yuliana-r" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuliana-r&show_icons=true&locale=en" alt="yuliana-r" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuliana-r&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="yuliana-r" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuliana-r&show_icons=true&locale=en&theme=slateorange&&hide=contribs" alt="yuliana-r" /></p>

@@ -19,9 +19,8 @@
 💻 Eager to embark on my first junior role and kick-start my career in the field!
 
 <br />
-<br />
 
-## Languages and Tools:
+### Languages and Tools:
 
 | Front-end  | Back-end | Databases  | Version Control & Collaboration |
 | :---: | :---: | :---: | :---: |

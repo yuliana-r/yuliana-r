@@ -4,7 +4,7 @@
 
 <img align="right" height="200" width="auto" src="https://i.giphy.com/media/7NoNw4pMNTvgc/giphy.webp"/>
 
-🌸 A passionate self-taught full-stack web developer
+🌸 A passionate and ambitious self-taught full-stack web developer
 
 🎓 BSc Computing Technologies graduate
 

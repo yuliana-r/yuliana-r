@@ -6,7 +6,7 @@
 
 🌸 A passionate self-taught full-stack web developer
 
-🎓 BSc Computing Technologies graduate (1st) from the [University of Roehampton](https://www.roehampton.ac.uk/)
+🎓 BSc Computing Technologies graduate
 
 ✨ Working my way through [The Odin Project](https://www.theodinproject.com/)
 

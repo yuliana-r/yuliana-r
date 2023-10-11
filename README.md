@@ -1,6 +1,6 @@
-> **Hi, I'm Yuliana** <img height="30" width="auto" src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" alt="Waving gif" />
+<img width="50" src="https://media.tenor.com/WX8OXgN5VpMAAAAC/waving-wave-hello.gif" alt="Waving gif" />
 
-
+> **Hi, I'm Yuliana**  
 
 <img align="right" height="200" width="auto" src="https://i.giphy.com/media/7NoNw4pMNTvgc/giphy.webp"/>
 

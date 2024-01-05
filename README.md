@@ -8,7 +8,7 @@
 
 ✨ Working my way through [The Odin Project](https://www.theodinproject.com/)
 
-🌱 Currently learning **how to build an API**
+🌱 Currently learning **how to build a RESTful API**
 
 🍞 _Sourdough aficionado_
  🎂 _Enthusiastic baker_

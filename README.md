@@ -2,7 +2,6 @@
 
 <img align="right" height="200" width="auto" src="https://i.giphy.com/media/7NoNw4pMNTvgc/giphy.webp"/>
 
-#### About Me
 🌸 Passionate self-taught web developer  
 
 🎓 BSc Computing Technologies graduate  
@@ -13,10 +12,9 @@
 
 💻 Looking for the right fit in a great company where I can make a positive impact  
 
+<br />
 
-#### Personal Interests
-
-🤸🏻‍♀️ When I'm not coding, I enjoy:  
+🤸🏻‍♀️ When I'm not coding, I also enjoy:  
  
 - 🎂 Baking cakes & sourdough bread
   
@@ -24,14 +22,15 @@
   
 - 🧶 Crochet
   
-- 🏞️ Hiking  
+- 🏞️ Hiking
+  
+- 🎲 Board games
+  
+- 🐱 Cuddles with Charlie
 
-🎲 Board games nerd 
-
-🐱 Charlie's human
 <br />
 
-#### Languages and Tools:
+### Languages and Tools:
 
 | Front-end  | Back-end | Databases  | Version Control & Collaboration |
 | :---: | :---: | :---: | :---: |

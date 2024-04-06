@@ -1,25 +1,37 @@
-> ### **Hi, I'm Yuliana 👋🏼**
+### Hi there, I'm Yuliana! 👋🏼
 
 <img align="right" height="200" width="auto" src="https://i.giphy.com/media/7NoNw4pMNTvgc/giphy.webp"/>
 
-🌸 A passionate and ambitious self-taught web developer
+#### About Me
+🌸 Passionate self-taught web developer  
 
-🎓 BSc Computing Technologies graduate
+🎓 BSc Computing Technologies graduate  
 
-✨ Working my way through [The Odin Project](https://www.theodinproject.com/)
+✨ Working my way through [The Odin Project](https://www.theodinproject.com/)  
 
-🌱 Currently learning **how to build a RESTful API**
+🌱 Currently learning **how to build RESTful APIs**    
 
-🍞 _Sourdough aficionado_
- 🎂 _Enthusiastic baker_
- 🎹 _Piano hobbyist_
- 🐱 _Charlie's human_
+💻 Looking for the right fit in a great company where I can make a positive impact  
 
-💻 Eager to embark on my first junior role and kick-start my career in the field!
 
+#### Personal Interests
+
+🤸🏻‍♀️ When I'm not coding, I enjoy:  
+ 
+- 🎂 Baking cakes & sourdough bread
+  
+- 🎹 Playing the piano
+  
+- 🧶 Crochet
+  
+- 🏞️ Hiking  
+
+🎲 Board games nerd 
+
+🐱 Charlie's human
 <br />
 
-> ### Languages and Tools:
+#### Languages and Tools:
 
 | Front-end  | Back-end | Databases  | Version Control & Collaboration |
 | :---: | :---: | :---: | :---: |

@@ -28,6 +28,8 @@
   
 - 🐱 Cuddles with Charlie
 
+- 🦞 Rewatching Friends for the millionth time
+
 <br />
 
 ### Languages and Tools:

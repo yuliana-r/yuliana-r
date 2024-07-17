@@ -20,7 +20,7 @@
   
 - 🎹 Playing the piano
   
-- 🧶 Crochet
+- 🧶 Crochet & embroidery
   
 - 🏞️ Hiking
   

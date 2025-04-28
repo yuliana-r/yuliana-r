@@ -24,7 +24,7 @@
   
 - 🏞️ Hiking
   
-- 🎲 Board games
+- 🎲 Board games & puzzles
   
 - 🐱 Cuddles with Charlie
 

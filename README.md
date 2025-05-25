@@ -16,19 +16,19 @@
 
 🤸🏻‍♀️ When I'm not coding, I also enjoy:  
  
-- 🎂 Baking cakes & sourdough bread
+🎂 Baking cakes & sourdough bread
   
-- 🎹 Playing the piano
+🎹 Playing the piano
   
-- 🧶 Crochet & embroidery
+🧶 Crochet & embroidery
   
-- 🏞️ Hiking
+🏞️ Hiking
   
-- 🎲 Board games & puzzles
+🎲 Board games & puzzles
   
-- 🐱 Cuddles with Charlie
+🐱 Cuddles with Charlie
 
-- 🦞 Rewatching Friends for the millionth time
+🦞 Rewatching Friends for the millionth time
 
 <br />
 

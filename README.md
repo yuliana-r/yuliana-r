@@ -14,7 +14,7 @@
 
 <br />
 
-🤸🏻‍♀️ When I'm not coding, I also enjoy:  
+When I'm not coding, I also enjoy:  
  
 🎂 Baking cakes & sourdough bread
   

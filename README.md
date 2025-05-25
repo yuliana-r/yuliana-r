@@ -2,7 +2,7 @@
 
 <img align="right" height="200" width="auto" src="https://i.giphy.com/media/7NoNw4pMNTvgc/giphy.webp"/>
 
-🌸 Passionate self-taught web developer  
+🌸 Self-taught web developer  
 
 🎓 BSc Computing Technologies graduate  
 
